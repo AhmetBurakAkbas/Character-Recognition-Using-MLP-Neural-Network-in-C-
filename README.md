@@ -1,6 +1,6 @@
-# Neural Network Letter Recognition (A–E) in C#
+# Neural Network Letter Recognition (A–G) in C#
 
-This project implements a basic character recognition system using a multi-layer perceptron (MLP) neural network in C#. The goal is to recognize letters **A, B, C, D, and E** from binary 7x5 matrices using a feedforward neural network with a single hidden layer.
+This project implements a basic character recognition system using a multi-layer perceptron (MLP) neural network in C#. The goal is to recognize letters **A, B, C, D,E,F and G** from binary 7x5 matrices using a feedforward neural network with a single hidden layer.
 
 ## 🔧 Technologies
 - **Language:** C#
